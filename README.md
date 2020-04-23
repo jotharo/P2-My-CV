@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+OCR Projet 2 - Transformez votre CV en site Web  
 
-You can use the [editor on GitHub](https://github.com/jotharo/ocr-webdev-projet-2-cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jotharo/ocr-webdev-projet-2-cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Préparer des éléments graphiques et textuels à intégrer à une page web  
+Intégrer du contenu conformément à une maquette  
+Définir la structure d'une page web à partir d'une maquette  
+Utiliser un système de gestion de versions pour le suivi du projet et son hébergement  
+Adapter l'affichage d'un site web à des écrans de petite taille  
+Assurer la conformité d'une page web aux standards HTML et CSS  
