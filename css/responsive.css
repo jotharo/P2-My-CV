@@ -1,0 +1,106 @@
+/* -------------------------------------------------------------------------------------- */
+
+	/* TELEPHONE PORTABLE */
+	/* GENERAL */
+    @media(max-width: 767px){
+        .container {
+            width: 100%;
+            background-color: blue;
+        }
+        
+        .leftblock {
+        
+        
+            flex:0 0 100%;  
+            max-width: 100%;	
+        }
+        
+        .rightblock {
+            display: block;
+            flex:0 0 100%;  
+            max-width: 100%;
+            font-size: 1em;
+            padding:0 0 0 0;
+        }
+        
+        
+        
+        h3 {
+        
+            font-size: 0.8em;
+        }
+        
+        h4 {
+            
+            font-size: 0.8em;
+        }
+        
+        h5 {
+            
+            font-size: 0.8em;
+        }
+        
+        p {
+            
+            font-size: 0.8em;
+        }
+        
+        /*  - COLONNE DE GAUCHE / Leftblock */
+        
+        /* Leftblock / General */
+        
+        
+        /*  RowOne / Photo */
+        img {
+         transform: scale(0.7);
+         margin:0px;
+        }
+        
+        .photocv{
+                text-align: center;
+                max-width: 100%;
+                background-color: white;	
+            }
+        .nomprenom {
+            font-size:0.5em;
+        }
+        /*  RowTwo / Contact */
+        
+        ul {
+            text-align: center;
+        }
+        span.alaligne {
+            display: block; /*  span est de base un element inline qui ne connait pas de largeur  */
+            text-align: center;
+        }
+        /*  RowThree / A propos */
+        
+        
+        /*  RowFour / Loisirs */
+        
+        
+        
+        
+        /*  COLONNE DE DROITE / Rightblock */
+        
+        /* RightBlock / General */
+        
+        /*  RowOne / Nom Prenom Job */
+        
+        .nomprenom{
+            text-align: center; /* ---> centrer texte pour equilibre general*/
+        }
+        
+        /*  RowTwo / Formation */
+        
+        .rightblock h3{
+            text-align: center;
+        }
+        /*  RowThree / Experience Pro */
+        
+        
+        /*  RowFour / Recommandations */
+        .cv-bloc {
+            padding: 10px;
+        }
+        }
